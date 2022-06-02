@@ -1,0 +1,49 @@
+.background {
+    background-image: url("../assets/home/background-home-desktop.jpg");
+    margin-left: 500px solid;
+    /* ^ This will shift the background to the left while filling in the empty space with the same background. */
+    background-size: 100% auto;
+
+}
+
+.container {}
+
+h2 {
+    color: white;
+
+}
+
+h1 {
+    color: white;
+    font-size: 150px;
+    font-family: 'Bellefair', serif;
+    font-weight: 400;
+    margin: 0 auto 0 auto;
+}
+
+h2 {
+    margin: 0 auto 0 auto;
+}
+
+p {
+    color: white;
+}
+
+.explore-circle {
+    background: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}
+
+.shift-circle {
+    margin-left: 1500px;
+}
